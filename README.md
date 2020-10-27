@@ -61,7 +61,7 @@ Use `npm run build` to build your site for production.
 
 ### Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/taylorbryant/gatsby-starter-tailwind)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/weisk-gatsby/gatsby-starter-tailwind)
 
 ### Vercel (FKA ZEIT Now)
 
